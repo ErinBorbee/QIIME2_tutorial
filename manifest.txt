@@ -1,0 +1,5 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+EB604	/home/joyvan/exampleSeqs/EB604_R1.fastq	/home/joyvan/exampleSeqs/EB604_R2.fastq
+EB625	/home/joyvan/exampleSeqs/EB625_R1.fastq	/home/joyvan/exampleSeqs/EB625_R2.fastq
+EB639	/home/joyvan/exampleSeqs/EB639_R1.fastq	/home/joyvan/exampleSeqs/EB639_R2.fastq
+EB640	/home/joyvan/exampleSeqs/EB640_R1.fastq	/home/joyvan/exampleSeqs/EB640_R2.fastq
