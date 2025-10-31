@@ -4,10 +4,11 @@ channels:
   - bioconda
   - qiime2/label/r2024.10 # or another version
   - defaults
-  - bash_kernel
 dependencies:
   - qiime2=2024.10 # or another QIIME 2 release
   - jupyterlab
   - notebook
   - matplotlib
   - pandas
+  -pip:
+    - bash_kernel==0.7.1
