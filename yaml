@@ -10,3 +10,5 @@ dependencies:
   - notebook
   - matplotlib
   - pandas
+
+pip install bash_kernel
