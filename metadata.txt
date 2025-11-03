@@ -1,0 +1,5 @@
+sample-id	sample-name	symbiontState	treatment	timepoint	symbiontDensity
+EB604	CW02-T06	white	control	6hr	44270.83333
+EB625	IB06-T06	brown	infection	6hr	1203125
+EB639	CB05-T06	brown	control	6hr	1955729.167
+EB640	IW09-T06	white	infection	6hr	36458.33333
