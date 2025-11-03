@@ -2,7 +2,7 @@ name: qiime2-binder
 channels:
   - conda-forge
   - bioconda
-  - qiime2/label/r2024.10::qiime2 # or another version
+  - qiime2/label/r2024.10 # or another version
   - defaults
 dependencies:
   - qiime2=2024.10 # or another QIIME 2 release
